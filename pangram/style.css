@@ -13,14 +13,7 @@ body {
     text-decoration: none;
   }
   
-  #pangram {
-    box-sizing: border-box;
-    width: 100%;
-    border: 0;
-    outline: 0;
-    padding: 0.25em 0.5em;
-    font-size: 1.25em;
-  }
+  
   
   #result {
     text-align: right;
