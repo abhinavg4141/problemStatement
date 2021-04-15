@@ -1,0 +1,27 @@
+body {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2em;
+    font-size: 1.5em;
+    font-family: sans-serif;
+    background-color: #163846;
+    color: #fff;
+  }
+  
+  a {
+    color: #DAB046;
+    text-decoration: none;
+  }
+  
+  #pangram {
+    box-sizing: border-box;
+    width: 100%;
+    border: 0;
+    outline: 0;
+    padding: 0.25em 0.5em;
+    font-size: 1.25em;
+  }
+  
+  #result {
+    text-align: right;
+  }
